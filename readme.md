@@ -49,6 +49,13 @@ WEATHERAPIKEY = "your api key"
 
 ## Testing the app
 
+### Run
+
+```
+npm run dev
+
+```
+
 ### Open your Postman App (an API testing tool that allows for easy validation of API responses) and make a new POST HTTP request to your backend "http://localhost:3001/v1/weatherforecast" with the following payload:
 
 ```

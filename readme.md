@@ -23,7 +23,7 @@ using geographic coordinates, and show the results in metric units.
 git clone https://github.com/LuisGerar321/weather-forecast-back.git
 ```
 
-### 2-. Install the modules required to run the project on both client-side and server-side:
+### 2-. Install the modules required to run the project:
 
 ```
 cd weather-forecast-back

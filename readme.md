@@ -1,4 +1,4 @@
-# Tendencys Test Backend
+# Weather forecas
 
 ### Instructions
 

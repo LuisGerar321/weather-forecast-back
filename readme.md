@@ -1,4 +1,4 @@
-# Weather forecas
+# Weather forecast
 
 ### Instructions
 
